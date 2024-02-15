@@ -28,7 +28,7 @@ function App() {
   const pessoas = [
     {id: 1, name: "Paulo", age:22, job:"Engenheiro"},
     {id: 2, name: "Maria", age:16, job:"Estudante"},
-    {id: 3, name: "Lucrécia", age: 45, job:"Advogada"},
+    {id: 3, name: "Lucrécia", age: 32, job:"Médica"},
   ];
 
   function showMessage(){
